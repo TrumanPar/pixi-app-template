@@ -1,0 +1,35 @@
+# primary group
+* @pcdshub/software-admin
+# Pick one of the teams you are part of!
+# Uncomment exactly one line and delete all other options and comments, including software-admin above.
+# Section 1: Area Teams, these are preferred if one is applicable:
+# * @pcdshub/cxi-members
+# * @pcdshub/las-members
+# * @pcdshub/mec-members
+# * @pcdshub/mfx-members
+# * @pcdshub/rix-members
+# * @pcdshub/tmo-members
+# * @pcdshub/txi-members
+# * @pcdshub/ued-members
+# * @pcdshub/xbd-members
+# * @pcdshub/xcs-members
+# * @pcdshub/xpp-members
+# Section 2: SME Teams, these are 2nd priority if no area team is applicable:
+# * @pcdshub/embedded-sme
+# * @pcdshub/laser-sme
+# * @pcdshub/motion-sme
+# * @pcdshub/optics-sme
+# * @pcdshub/pmps-sme
+# * @pcdshub/sample-delivery-sme
+# * @pcdshub/ui-sme
+# * @pcdshub/vacuum-sme
+# Section 3: Language Teams, for things that serve multiple sme groups and multiple areas but have a language
+# * @pcdshub/c-reviewers
+# * @pcdshub/epics-reviewers
+# * @pcdshub/python-reviewers
+# * @pcdshub/shell-reviewers
+# * @pcdshub/twincat-reviewers
+# Did nothing fit? Ask for a project-specific team to be created or put your own username as the owner for prototypes.
+
+# do not change: github settings owned by software-admin
+.github/** @pcdshub/software-admin
